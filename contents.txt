@@ -1,0 +1,9 @@
+Table of contents
+
+- install and import dependencies
+- Load documents
+- Transformer documents
+- Generate text embeddings
+- Vector store - PINECONE
+- Retrieve answers
+- Structure the Output
