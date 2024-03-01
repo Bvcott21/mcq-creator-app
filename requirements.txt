@@ -4,3 +4,4 @@ pinecone-client
 pypdf
 openai
 langchain
+langchain_pinecone
